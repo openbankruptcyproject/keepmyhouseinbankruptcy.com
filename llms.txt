@@ -1,0 +1,21 @@
+# keepmyhouseinbankruptcy.com
+
+> Plain-English guide to keeping your home in bankruptcy. Homestead exemptions, Chapter 7 vs Chapter 13, mortgage arrears, lien stripping, and foreclosure timing.
+
+keepmyhouseinbankruptcy.com is a free, open-source educational resource about protecting your home during bankruptcy. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://keepmyhouseinbankruptcy.com/: Can I Keep My House in Bankruptcy? -- main landing page and overview
+- https://keepmyhouseinbankruptcy.com/chapter-7-house.html: Your house in Chapter 7 -- when you can keep it and when you cannot
+- https://keepmyhouseinbankruptcy.com/chapter-13-house.html: Your house in Chapter 13 -- catching up on payments through a repayment plan
+- https://keepmyhouseinbankruptcy.com/homestead-exemption.html: Homestead exemptions explained -- how they protect your home equity
+- https://keepmyhouseinbankruptcy.com/mortgage-arrears.html: Catching up on mortgage arrears through Chapter 13
+- https://keepmyhouseinbankruptcy.com/foreclosure-vs-bankruptcy.html: Foreclosure vs bankruptcy -- timing, automatic stay, and strategic options
+- https://keepmyhouseinbankruptcy.com/home-equity.html: How home equity affects your bankruptcy case
+- https://keepmyhouseinbankruptcy.com/lienstrip.html: Second mortgage lien stripping in Chapter 13
+- https://keepmyhouseinbankruptcy.com/faq.html: Frequently asked questions about keeping your house in bankruptcy
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

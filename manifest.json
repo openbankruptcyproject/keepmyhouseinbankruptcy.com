@@ -1,0 +1,16 @@
+{
+  "name": "Can I Keep My House in Bankruptcy?",
+  "short_name": "keepmyhouseinbankruptcy.com",
+  "description": "Plain-English guide to keeping your home in bankruptcy. Homestead exemptions, Chapter 7 vs Chapter 13, mortgage arrears, lien stripping, and foreclosure timing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
