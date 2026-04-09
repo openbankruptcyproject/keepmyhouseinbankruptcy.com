@@ -323,6 +323,24 @@
   border-radius: 8px; margin: 0.75rem 0; padding: 1rem 1.5rem; }
 .faq-item h3 { color: var(--text, #e6edf3); font-size: 1rem; margin-bottom: 0.5rem; }
 .faq-item p { color: var(--text-muted, #9eaab6); font-size: 0.95rem; margin: 0; }
+
+  /* Skip navigation link (accessibility) */
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 0;
+    background: var(--accent, #58a6ff);
+    color: #000;
+    padding: 0.5rem 1.5rem;
+    z-index: 10000;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border-radius: 0 0 6px 0;
+  }
+  .skip-link:focus {
+    top: 0;
+  }
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
@@ -401,6 +419,7 @@
 </script>
 </head>
 <body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
 
 <nav aria-label="Main navigation">
   <a href="/" class="site-name">keepmyhouseinbankruptcy.com</a>
@@ -427,7 +446,7 @@
   <p class="subtitle">For most people, the answer is yes. The Bankruptcy Code provides multiple tools to protect your home -- whether you file Chapter 7 or Chapter 13. Here is how it works.</p>
 </header>
 
-<main>
+<main id="main-content">
 
 <div class="stats-row">
   <div class="stat-card">
@@ -596,7 +615,7 @@
   <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
   <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
-    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input aria-label="your@email.com" type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
     <input type="hidden" name="_subject" value="BTN Research Subscriber">
     <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
   </form>
@@ -638,8 +657,8 @@
   <form id="obp-help-submit" style="margin:0">
     <input type="hidden" name="source" value="keepmyhouseinbankruptcy.com">
     <input type="hidden" name="topic" value="Site Question">
-    <input type="text" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem">
-    <input type="email" name="email" placeholder="Email" required style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem">
+    <input aria-label="Name (optional)" type="text" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem">
+    <input aria-label="Email" type="email" name="email" placeholder="Email" required style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem">
     <select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
       <option value="">Select your state...</option>
       <option value="AL">Alabama</option>
@@ -701,7 +720,7 @@
     </select>
     <textarea name="message" placeholder="Your question..." required rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
     <label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
-      <input type="checkbox" required style="margin-top:2px;accent-color:#bf3989">
+      <input aria-label="checkbox" type="checkbox" required style="margin-top:2px;accent-color:#bf3989">
       I understand this is educational information, not legal advice.
     </label>
     <button type="submit" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">Submit Question</button>
@@ -805,6 +824,42 @@
   </div>
 </div>
 
+<!-- BTN:EMAIL-SIGNUP:START -->
+<div style="max-width:600px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px;text-align:center">
+  <h3 style="color:#e6edf3;margin:0 0 0.4rem;font-size:1.1rem;font-weight:600">Get Bankruptcy Updates</h3>
+  <p style="color:#8b949e;font-size:0.85rem;margin:0 0 1rem">Free updates from the Open Bankruptcy Project. No spam, unsubscribe anytime.</p>
+  <form id="obp-signup-form" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap;margin:0">
+    <input type="hidden" name="source" value="keepmyhouseinbankruptcy.com">
+    <input aria-label="you@example.com" type="email" name="email" placeholder="you@example.com" required
+      style="padding:0.55rem 0.9rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:240px;box-sizing:border-box">
+    <button type="submit"
+      style="padding:0.55rem 1.4rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer;transition:background 0.2s"
+      onmouseover="this.style.background='#2ea043'" onmouseout="this.style.background='#238636'">Subscribe</button>
+  </form>
+  <p id="obp-signup-thanks" style="display:none;color:#3fb950;font-weight:600;margin:0.75rem 0 0">You're subscribed. Thank you!</p>
+  <p style="color:#6e7681;font-size:0.75rem;margin:0.75rem 0 0">
+    <a href="https://openbankruptcyproject.org/privacy.html" style="color:#6e7681;text-decoration:underline">Privacy policy</a>
+  </p>
+  <script>
+  (function(){
+    var f=document.getElementById('obp-signup-form');
+    if(!f)return;
+    f.addEventListener('submit',function(e){
+      e.preventDefault();
+      var btn=f.querySelector('button[type=submit]');
+      btn.disabled=true;btn.textContent='Subscribing...';
+      var d={email:f.querySelector('[name=email]').value,
+        topic:'Email Signup ('+f.querySelector('[name=source]').value+')',
+        name:'',message:'Newsletter signup'};
+      fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+      .then(function(){f.style.display='none';document.getElementById('obp-signup-thanks').style.display='block'})
+      .catch(function(){f.style.display='none';document.getElementById('obp-signup-thanks').style.display='block'});
+    });
+  })();
+  </script>
+</div>
+<!-- BTN:EMAIL-SIGNUP:END -->
+
 <!-- BTN:FOOTER:START -->
 <footer role="contentinfo">
   <p style="margin-bottom:0.5rem">Free bankruptcy education. Not legal advice.</p>
@@ -836,5 +891,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

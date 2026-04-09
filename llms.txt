@@ -1,21 +1,80 @@
-# keepmyhouseinbankruptcy.com
+# Keep Your House in Bankruptcy -- Homestead Exemption Guide [2026] -- Keep My House
+> Can you keep your house in bankruptcy? Homestead exemptions, Chapter 13 mortgage catch-up, and lien stripping explained. Free 2026 state-b...
 
-> Plain-English guide to keeping your home in bankruptcy. Homestead exemptions, Chapter 7 vs Chapter 13, mortgage arrears, lien stripping, and foreclosure timing.
+## About
+keepmyhouseinbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-keepmyhouseinbankruptcy.com is a free, open-source educational resource about protecting your home during bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://keepmyhouseinbankruptcy.com/: Can I Keep My House in Bankruptcy? -- main landing page and overview
-- https://keepmyhouseinbankruptcy.com/chapter-7-house.html: Your house in Chapter 7 -- when you can keep it and when you cannot
-- https://keepmyhouseinbankruptcy.com/chapter-13-house.html: Your house in Chapter 13 -- catching up on payments through a repayment plan
-- https://keepmyhouseinbankruptcy.com/homestead-exemption.html: Homestead exemptions explained -- how they protect your home equity
-- https://keepmyhouseinbankruptcy.com/mortgage-arrears.html: Catching up on mortgage arrears through Chapter 13
-- https://keepmyhouseinbankruptcy.com/foreclosure-vs-bankruptcy.html: Foreclosure vs bankruptcy -- timing, automatic stay, and strategic options
-- https://keepmyhouseinbankruptcy.com/home-equity.html: How home equity affects your bankruptcy case
-- https://keepmyhouseinbankruptcy.com/lienstrip.html: Second mortgage lien stripping in Chapter 13
-- https://keepmyhouseinbankruptcy.com/faq.html: Frequently asked questions about keeping your house in bankruptcy
+## Key Pages
+- Keep Your House in Bankruptcy -- Homestead Exemption Guide [2026] -- Keep My House: https://keepmyhouseinbankruptcy.com/
+- Your House in Chapter 13 Bankruptcy -- Cure Arrears and Keep Your Home | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/chapter-13-house.html
+- Your House in Chapter 7 Bankruptcy -- Can You Keep It? | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/chapter-7-house.html
+- FAQ -- Keeping Your House in Bankruptcy | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/faq.html
+- Foreclosure Bankruptcy [2026] -- Can Bankruptcy Stop Foreclosure? | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/foreclosure-bankruptcy.html
+- Foreclosure vs Bankruptcy -- Timing, Automatic Stay, and Options | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/foreclosure-vs-bankruptcy.html
+- How Home Equity Affects Your Bankruptcy Case | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/home-equity.html
+- Homestead Exemptions in Bankruptcy -- How They Protect Your Home | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/homestead-exemption.html
+- Keeping Your House in Bankruptcy -- Chapter 7 vs Chapter 13 Guide [2026] | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/keeping-house.html
+- Second Mortgage Lien Stripping in Chapter 13 Bankruptcy | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/lienstrip.html
+- Catching Up on Mortgage Arrears Through Chapter 13 | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/mortgage-arrears.html
+- Keep Your House in Bankruptcy in Alabama | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/alabama.html
+- Keep Your House in Bankruptcy in Alaska | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/alaska.html
+- Keep Your House in Bankruptcy in Arizona | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/arizona.html
+- Keep Your House in Bankruptcy in Arkansas | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/arkansas.html
+- Keep Your House in Bankruptcy in California | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/california.html
+- Keep Your House in Bankruptcy in Colorado | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/colorado.html
+- Keep Your House in Bankruptcy in Connecticut | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/connecticut.html
+- Keep Your House in Bankruptcy in Delaware | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/delaware.html
+- Keep Your House in Bankruptcy in District of Columbia | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/district-of-columbia.html
+- Keep Your House in Bankruptcy in Florida | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/florida.html
+- Keep Your House in Bankruptcy in Georgia | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/georgia.html
+- Keep Your House in Bankruptcy in Hawaii | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/hawaii.html
+- Keep Your House in Bankruptcy in Idaho | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/idaho.html
+- Keep Your House in Bankruptcy in Illinois | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/illinois.html
+- States | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/index.html
+- Keep Your House in Bankruptcy in Indiana | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/indiana.html
+- Keep Your House in Bankruptcy in Iowa | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/iowa.html
+- Keep Your House in Bankruptcy in Kansas | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/kansas.html
+- Keep Your House in Bankruptcy in Kentucky | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/kentucky.html
+- Keep Your House in Bankruptcy in Louisiana | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/louisiana.html
+- Keep Your House in Bankruptcy in Maine | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/maine.html
+- Keep Your House in Bankruptcy in Maryland | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/maryland.html
+- Keep Your House in Bankruptcy in Massachusetts | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/massachusetts.html
+- Keep Your House in Bankruptcy in Michigan | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/michigan.html
+- Keep Your House in Bankruptcy in Minnesota | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/minnesota.html
+- Keep Your House in Bankruptcy in Mississippi | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/mississippi.html
+- Keep Your House in Bankruptcy in Missouri | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/missouri.html
+- Keep Your House in Bankruptcy in Montana | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/montana.html
+- Keep Your House in Bankruptcy in Nebraska | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/nebraska.html
+- Keep Your House in Bankruptcy in Nevada | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/nevada.html
+- Keep Your House in Bankruptcy in New Hampshire | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/new-hampshire.html
+- Keep Your House in Bankruptcy in New Jersey | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/new-jersey.html
+- Keep Your House in Bankruptcy in New Mexico | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/new-mexico.html
+- Keep Your House in Bankruptcy in New York | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/new-york.html
+- Keep Your House in Bankruptcy in North Carolina | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/north-carolina.html
+- Keep Your House in Bankruptcy in North Dakota | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/north-dakota.html
+- Keep Your House in Bankruptcy in Ohio | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/ohio.html
+- Keep Your House in Bankruptcy in Oklahoma | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/oklahoma.html
+- Keep Your House in Bankruptcy in Oregon | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/oregon.html
+- Keep Your House in Bankruptcy in Pennsylvania | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/pennsylvania.html
+- Keep Your House in Bankruptcy in Rhode Island | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/rhode-island.html
+- Keep Your House in Bankruptcy in South Carolina | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/south-carolina.html
+- Keep Your House in Bankruptcy in South Dakota | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/south-dakota.html
+- Keep Your House in Bankruptcy in Tennessee | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/tennessee.html
+- Keep Your House in Bankruptcy in Texas | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/texas.html
+- Keep Your House in Bankruptcy in Utah | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/utah.html
+- Keep Your House in Bankruptcy in Vermont | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/vermont.html
+- Keep Your House in Bankruptcy in Virginia | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/virginia.html
+- Keep Your House in Bankruptcy in Washington | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/washington.html
+- Keep Your House in Bankruptcy in West Virginia | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/west-virginia.html
+- Keep Your House in Bankruptcy in Wisconsin | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/wisconsin.html
+- Keep Your House in Bankruptcy in Wyoming | keepmyhouseinbankruptcy.com -- Keep My House: https://keepmyhouseinbankruptcy.com/states/wyoming.html
+- Keep Your House in Bankruptcy FAQ -- Home Protection Questions: https://keepmyhouseinbankruptcy.com/frequently-asked-questions.html
+- Protect Your Home in Bankruptcy -- Mortgage Checklist: https://keepmyhouseinbankruptcy.com/mortgage-checklist.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
