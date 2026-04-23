@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://keepmyhouseinbankruptcy.com/sitemap.xml
+
+Sitemap: https://keepmyhouseinbankruptcy.com/sitemapindex.xml
