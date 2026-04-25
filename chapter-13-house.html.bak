@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Your House in Chapter 13 Bankruptcy - Cure Arrears and Keep Your Home | keepmyhouseinbankruptcy.com - Keep My House</title>
+<meta content="Chapter 13 bankruptcy lets you catch up on missed mortgage payments over 3-5 years while keeping your home. Learn how the cure provision w..." name="description"/>
+<meta content="Chapter 13 house, keep house Chapter 13, cure mortgage arrears, Chapter 13 mortgage, Chapter 13 plan home, stop foreclosure Chapter 13" name="keywords"/>
+<link href="https://keepmyhouseinbankruptcy.com/chapter-13-house.html" rel="canonical"/>
+<meta content="Your House in Chapter 13 Bankruptcy - Cure Arrears and Keep Your Home | keepmyhouseinbankruptcy.com - Keep My House" property="og:title"/>
+<meta content="Chapter 13 bankruptcy lets you catch up on missed mortgage payments over 3-5 years while keeping your home. Learn how the cure provision w..." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://keepmyhouseinbankruptcy.com/chapter-13-house.html" property="og:url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#0d1117" name="theme-color"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Chapter 13 let me keep my house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 13 allows you to propose a repayment plan lasting 3 to 5 years. During this time, you make regular mortgage payments going forward and cure any missed payments (arrears) through the plan. The automatic stay prevents foreclosure while your plan is active."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I cure mortgage arrears in Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Under 11 U.S.C. Section 1322(b)(5), your Chapter 13 plan can provide for curing any default on your home mortgage while maintaining regular ongoing payments. The arrears are spread across the life of the plan - typically 3 to 5 years."
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; } nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; } .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.3rem; cursor: pointer; padding: 0.3rem 0.6rem; border-radius: 4px; line-height: 1; }
+  header { background: linear-gradient(135deg, #0d2137, #122a44); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 760px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.375rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; font-size: 0.85rem; color: var(--text-muted); margin-top: 2rem; } footer a { color: var(--accent); }
+  @media (max-width: 768px) {
+    .hamburger { display: inline-block; } .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; } .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 0.6rem 0; margin: 0; font-size: 0.95rem; min-height: 44px; line-height: 2; border-bottom: 1px solid #21262d; }
+    header { padding: 2rem 1rem; } header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://keepmyhouseinbankruptcy.com/"}, {"@type": "ListItem", "position": 2, "name": "Your House in Chapter 13 Bankruptcy - Cure Arrears and Keep Your Home | keepmyhouseinbankruptcy.com", "item": "https://keepmyhouseinbankruptcy.com/chapter-13-house.html"}]}
+</script>
+<link href="https://keepmyhouseinbankruptcy.com/chapter-13-house.html" hreflang="en" rel="alternate"/>
+<link href="https://keepmyhouseinbankruptcy.com/chapter-13-house-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<nav aria-label="Main navigation">
+<a class="site-name" href="/">keepmyhouseinbankruptcy.com</a>
+<button aria-controls="nav-links" aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger">☰</button>
+<div class="nav-links" id="nav-links">
+<a href="/">Home</a>
+<a href="chapter-7-house.html">Chapter 7</a>
+<a class="active" href="chapter-13-house.html">Chapter 13</a>
+<a href="homestead-exemption.html">Exemptions</a>
+<a href="mortgage-arrears.html">Mortgage Arrears</a>
+<a href="foreclosure-vs-bankruptcy.html">Foreclosure</a>
+<a href="home-equity.html">Home Equity</a>
+<a href="lienstrip.html">Lien Strip</a>
+<a href="faq.html">FAQ</a>
+</div>
+</nav>
+<header>
+<h1>Your House in <span class="accent">Chapter 13</span> Bankruptcy</h1>
+<p class="subtitle">Chapter 13 is the homeowner's chapter. It lets you catch up on missed mortgage payments, stop foreclosure, and even strip off underwater second mortgages - all while keeping your home.</p>
+</header>
+<main>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://keepmyhouseinbankruptcy.com/">Home</a><span class="separator">›</span><span>Your House in Chapter 13 Bankruptcy - Cure Arrears and Keep Your Home | keepmyhouseinbankruptcy.com</span></nav>
+<div class="content-section">
+<h2>How Chapter 13 protects your home</h2>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy is built around a repayment plan lasting 3 to 5 years. During this time, you make two types of payments related to your house:</p>
+<ol>
+<li><strong>Regular ongoing mortgage payments</strong> - you pay these directly to the lender (or through the trustee, depending on your district)</li>
+<li><strong>Arrears cure payments</strong> - any missed payments are spread across the life of the plan and paid through the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee</li>
+</ol>
+<p>The moment you file, the <a href="https://automaticstay.org">automatic stay</a> under 11 U.S.C. § 362 takes effect. This immediately stops foreclosure proceedings, collection calls, and any other creditor action against you or your property.</p>
+<div class="statute-box">
+<p><strong>11 U.S.C. § 1322(b)(5):</strong> A <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a> may "provide for the curing of any default within a reasonable time and maintenance of payments while the case is pending on any unsecured claim or secured claim on which the last payment is due after the date on which the final payment under the plan is due."</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Curing mortgage arrears</h2>
+<p>This is the single most powerful tool Chapter 13 gives homeowners. If you are $12,000 behind on your mortgage, your <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a> can spread that $12,000 over 60 months - adding just $200 per month to your plan payment to cure the default.</p>
+<p>During the plan, the lender cannot foreclose as long as you are making both your regular payments and your plan payments. When you complete the plan, the arrears are fully cured and you are back on track as if you had never missed a payment.</p>
+<p><a href="mortgage-arrears.html">Read the complete guide to curing mortgage arrears →</a></p>
+<div class="yellow-box">
+<p><strong>Example:</strong> You are 8 months behind on a $1,500/month mortgage - $12,000 in arrears. In Chapter 13, you continue paying $1,500/month to the lender going forward, and the $12,000 arrears are paid through the plan over 60 months ($200/month). Total monthly cost: $1,700 plus your other plan obligations.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>The anti-modification rule</h2>
+<p>Under 11 U.S.C. § 1322(b)(2), a Chapter 13 plan generally <strong>cannot modify</strong> the rights of a creditor whose claim is secured only by a lien on the debtor's principal residence. This means you cannot reduce the mortgage balance, lower the interest rate, or extend the term of your first mortgage through Chapter 13.</p>
+<p>However, there are important exceptions:</p>
+<ul>
+<li><strong>Curing defaults</strong> - § 1322(b)(5) allows curing arrears even though it does not allow modifying the underlying mortgage terms</li>
+<li><strong>Short-term mortgages</strong> - if the last payment on the mortgage is due before the end of your plan period, modification is permitted</li>
+<li><strong><a href="https://lienstripping.org/" title="lien">Lien stripping</a></strong> - a wholly unsecured second mortgage can be stripped off entirely under § 506(a). See our <a href="lienstrip.html">lien stripping guide</a></li>
+</ul>
+</div>
+<div class="content-section">
+<h2>What happens at the end of the plan?</h2>
+<p>If you complete all plan payments - including the arrears cure - you receive a Chapter 13 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under 11 U.S.C. § 1328(a). Your mortgage continues as normal. Any second mortgage that was stripped off through the plan is permanently eliminated.</p>
+<p>If you fail to complete the plan, the court may dismiss the case or convert it to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. If dismissed, the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> lifts and the lender can resume foreclosure on any remaining arrears.</p>
+</div>
+<div class="warning-box">
+<p><strong>You must make every payment.</strong> Missing plan payments or post-petition mortgage payments can result in the lender filing a motion for <a href="https://relieffromstay.org">relief from stay</a>, which would allow them to resume foreclosure even while your case is pending.</p>
+</div>
+<div class="green-box">
+<p><strong>Chapter 13 is the most powerful tool in the Bankruptcy Code for homeowners.</strong> It combines the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a>, the arrears cure provision, and (where applicable) <a href="https://lienstripping.org/" title="lien">lien stripping</a> into a comprehensive package that lets you save your home while reorganizing your finances.</p>
+</div>
+<div style="max-width:820px;margin:2rem auto;padding:0 1.5rem">
+<h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Topics</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.75rem">
+<a href="https://chapter13plan.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Chapter 13 Plans</a>
+<a href="https://automaticstay.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">The Automatic Stay</a>
+<a href="https://chapter7vs13.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Chapter 7 vs Chapter 13</a>
+<a href="mortgage-arrears.html" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Mortgage Arrears Guide</a>
+</div>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://bankruptcyexemptions.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Exemptions Guide</a></li>
+<li><a href="https://bankruptcylien.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Lien Guide</a></li>
+<li><a href="https://keepmycarinbankruptcy.com" style="color:#58a6ff;text-decoration:none">Keep Your Car in Bankruptcy</a></li>
+<li><a href="https://lienstripping.org" style="color:#58a6ff;text-decoration:none">Lien Stripping in Chapter 13</a></li>
+</ul>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on GitHub</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy exemptions and asset protection:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/522" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 522</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - federal exemptions</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Bankruptcy Basics</a><br/><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/if-i-file-for-bankruptcy-can-i-keep-my-home-en-1938/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: Keep My Home?</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/wex/bankruptcy_exemptions" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Exemption Law Overview</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell Wex</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22homestead+exemption%22+%22bankruptcy%22+state" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Exemption Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.fjc.gov/research/idb" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FJC Bankruptcy Statistics</a><br/><span style="color:#7d8590;font-size:0.8rem"><a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a></span></li>
+</ul>
+</div>
+<!-- PAA SECTION (build_paa_pages.py) -->
+<div style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#111;border:1px solid #333;border-radius:8px">
+<p style="color:#fff;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">People Also Ask</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:8px"><a href="/paa/can-i-keep-my-house-if-i-file-bankruptcy.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Can I keep my house if I file bankruptcy?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/does-filing-bankruptcy-stop-foreclosure.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Does filing bankruptcy stop foreclosure?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/what-is-the-homestead-exemption-in-bankruptcy.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What is the homestead exemption in bankruptcy?</a></li>
+</ul>
+<p style="margin-top:12px"><a href="/paa/" style="color:#888;font-size:13px">View all questions →</a></p>
+</div>
+<!-- /PAA SECTION -->
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://bankruptcyexemptions.org?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Exemptions Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What property you can keep in bankruptcy</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptions.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcyexemptionsbystate.com?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Exemptions by State</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Your state's exemption laws explained</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptionsbystate.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcylien.org?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Liens in Bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcylien.org →</p>
+</a>
+<a class="related-card" href="https://buyahouseafterbankruptcy.com?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Buy a House After Bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Mortgage options after bankruptcy discharge</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">buyahouseafterbankruptcy.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+<p style="margin-bottom:0.5rem">Free bankruptcy education. Not legal advice.</p>
+<p style="margin-bottom:0.5rem">
+<a href="/">Home</a> · <a href="chapter-7-house.html">Chapter 7</a> · <a href="chapter-13-house.html">Chapter 13</a> · <a href="homestead-exemption.html">Exemptions</a> · <a href="mortgage-arrears.html">Mortgage Arrears</a> · <a href="foreclosure-vs-bankruptcy.html">Foreclosure</a> · <a href="home-equity.html">Home Equity</a> · <a href="lienstrip.html">Lien Strip</a> · <a href="faq.html">FAQ</a>
+</p>
+<p style="font-size:0.75rem">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.querySelector('.hamburger');
+  if (btn) btn.addEventListener('click', function() {
+    var links = document.getElementById('nav-links');
+    links.classList.toggle('open');
+    btn.setAttribute('aria-expanded', links.classList.contains('open'));
+  });
+});
+</script>
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

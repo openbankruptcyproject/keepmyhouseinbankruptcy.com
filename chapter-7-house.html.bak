@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Your House in Chapter 7 Bankruptcy - Can You Keep It? | keepmyhouseinbankruptcy.com - Keep My House</title>
+<meta content="Can you keep your house in Chapter 7 bankruptcy? Learn how homestead exemptions protect your equity, when the trustee can sell, and what h..." name="description"/>
+<meta content="Chapter 7 house, keep house Chapter 7, homestead exemption Chapter 7, Chapter 7 trustee sell house, bankruptcy home equity, Chapter 7 mortgage" name="keywords"/>
+<link href="https://keepmyhouseinbankruptcy.com/chapter-7-house.html" rel="canonical"/>
+<meta content="Your House in Chapter 7 Bankruptcy - Can You Keep It? | keepmyhouseinbankruptcy.com - Keep My House" property="og:title"/>
+<meta content="Can you keep your house in Chapter 7 bankruptcy? Learn how homestead exemptions protect your equity, when the trustee can sell, and what h..." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://keepmyhouseinbankruptcy.com/chapter-7-house.html" property="og:url"/>
+<meta content="keepmyhouseinbankruptcy.com" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Your House in Chapter 7 Bankruptcy - Can You Keep It? | keepmyhouseinbankruptcy.com - Keep My House" name="twitter:title"/>
+<meta content="Can you keep your house in Chapter 7 bankruptcy? Learn how homestead exemptions protect your equity, when the trustee can sell, and what h..." name="twitter:description"/>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#0d1117" name="theme-color"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the Chapter 7 trustee sell my house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only if your home equity exceeds the available homestead exemption. If the trustee cannot generate enough from a sale to pay creditors after covering exemptions, sale costs, and commissions, selling your home is not worthwhile and they will abandon it as an asset of the estate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens to my mortgage in Chapter 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 7 discharges your personal liability on the mortgage debt, but the lien stays on the property. If you want to keep the house, you must continue making payments. If you stop paying, the lender can foreclose - they just cannot sue you personally for any deficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I have to reaffirm my mortgage in Chapter 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. Many debtors use the 'ride-through' approach - they keep paying without signing a reaffirmation agreement. Some districts and lenders prefer reaffirmation. A reaffirmation agreement restores your personal liability, which means the lender could pursue a deficiency judgment if you later default."
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.3rem; cursor: pointer; padding: 0.3rem 0.6rem; border-radius: 4px; line-height: 1; }
+  header { background: linear-gradient(135deg, #0d2137, #122a44); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 760px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.375rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  th, td { padding: 0.6rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; font-size: 0.85rem; color: var(--text-muted); margin-top: 2rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 768px) {
+    .hamburger { display: inline-block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; }
+    .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 0.6rem 0; margin: 0; font-size: 0.95rem; min-height: 44px; line-height: 2; border-bottom: 1px solid #21262d; }
+    header { padding: 2rem 1rem; } header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    table { font-size: 0.8rem; } th, td { padding: 0.5rem 0.6rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://keepmyhouseinbankruptcy.com/"}, {"@type": "ListItem", "position": 2, "name": "Your House in Chapter 7 Bankruptcy - Can You Keep It? | keepmyhouseinbankruptcy.com", "item": "https://keepmyhouseinbankruptcy.com/chapter-7-house.html"}]}
+</script>
+<link href="https://keepmyhouseinbankruptcy.com/chapter-7-house.html" hreflang="en" rel="alternate"/>
+<link href="https://keepmyhouseinbankruptcy.com/chapter-7-house-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<nav aria-label="Main navigation">
+<a class="site-name" href="/">keepmyhouseinbankruptcy.com</a>
+<button aria-controls="nav-links" aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger">☰</button>
+<div class="nav-links" id="nav-links">
+<a href="/">Home</a>
+<a class="active" href="chapter-7-house.html">Chapter 7</a>
+<a href="chapter-13-house.html">Chapter 13</a>
+<a href="homestead-exemption.html">Exemptions</a>
+<a href="mortgage-arrears.html">Mortgage Arrears</a>
+<a href="foreclosure-vs-bankruptcy.html">Foreclosure</a>
+<a href="home-equity.html">Home Equity</a>
+<a href="lienstrip.html">Lien Strip</a>
+<a href="faq.html">FAQ</a>
+</div>
+</nav>
+<header>
+<h1>Your House in <span class="accent">Chapter 7</span> Bankruptcy</h1>
+<p class="subtitle">Chapter 7 is the fastest path to a discharge, but keeping your house depends on two things: your home equity and your state's homestead exemption.</p>
+</header>
+<main>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://keepmyhouseinbankruptcy.com/">Home</a><span class="separator">›</span><span>Your House in Chapter 7 Bankruptcy - Can You Keep It? | keepmyhouseinbankruptcy.com</span></nav>
+<div class="content-section">
+<h2>How Chapter 7 treats your house</h2>
+<p>When you file <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, a <a href="https://bankruptcytrustee.org/" title="trustee">bankruptcy trustee</a> is appointed to review your assets. The trustee's job is to identify non-exempt property, sell it, and distribute the proceeds to your creditors. Your house is an asset - but it is protected by the <a href="homestead-exemption.html">homestead exemption</a>.</p>
+<p>If your equity in the home is fully covered by the exemption, the trustee has no economic reason to sell. The home is "abandoned" by the estate and you keep it. This is the outcome in the vast majority of <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> cases involving a primary residence.</p>
+<p>If your equity exceeds the exemption, the trustee <em>may</em> sell the home. In practice, the trustee will weigh the costs of sale (real estate commissions, closing costs, your exemption amount) against the net proceeds available for creditors. If the margin is thin, many trustees will not bother.</p>
+<div class="statute-box">
+<p><strong>11 U.S.C. § 704(a)(1):</strong> The trustee shall "collect and reduce to money the property of the estate ... and close such estate as expeditiously as is compatible with the best interests of parties in interest."</p>
+<p><strong>11 U.S.C. § 522(b):</strong> Debtors may <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exempt property</a> from the estate using either the federal <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> under § 522(d) or applicable state exemptions.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>The equity calculation</h2>
+<p>To determine whether your house is at risk, do this math:</p>
+<ol>
+<li><strong>Fair market value</strong> of your home (what it would sell for today)</li>
+<li><strong>Minus</strong> all mortgage balances (first, second, HELOC)</li>
+<li><strong>Minus</strong> estimated costs of sale (typically 8-10% for commissions, closing costs, etc.)</li>
+<li><strong>Equals</strong> your net equity</li>
+</ol>
+<p>If your net equity is less than or equal to your <a href="homestead-exemption.html">homestead exemption</a>, you keep the house. If it exceeds the exemption, the trustee may have an economic incentive to sell.</p>
+<div class="yellow-box">
+<p><strong>Example:</strong> Your home is worth $250,000. You owe $220,000 on the mortgage. Sale costs would be roughly $20,000. Net equity: $10,000. If your state's homestead exemption is $15,000 or more, the trustee has zero incentive to sell. You keep the house.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>What happens to your mortgage?</h2>
+<p>Chapter 7 discharges your <em>personal liability</em> on the mortgage, but the lien remains on the property. This distinction matters.</p>
+<ul>
+<li><strong>If you keep paying:</strong> The lender will not foreclose. You keep the house. Most lenders are happy to accept payments regardless of the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</li>
+<li><strong>If you stop paying:</strong> The lender can foreclose on the property, but cannot sue you for any deficiency (the difference between what the home sells for and what you owe).</li>
+</ul>
+<h3>Reaffirmation vs. ride-through</h3>
+<p>A <strong><a href="https://reaffirmationagreement.org/" title="reaffirmation agreement">reaffirmation agreement</a></strong> is a contract you sign with the lender agreeing to remain personally liable on the mortgage despite the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. Some lenders and courts encourage it. The advantage is that the lender will continue reporting payments to credit bureaus. The disadvantage is that you lose the protection of the discharge - if you later default, the lender can pursue a deficiency.</p>
+<p>The <strong>ride-through</strong> approach means you keep paying without reaffirming. Many debtors prefer this because it preserves the discharge protection. Not all districts allow ride-through, so check your local rules.</p>
+</div>
+<div class="warning-box">
+<p><strong>You must be current on mortgage payments in Chapter 7.</strong> Unlike <a href="chapter-13-house.html">Chapter 13</a>, Chapter 7 does not provide a mechanism to cure mortgage arrears. If you are behind on payments and facing foreclosure, <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> is usually the better option for homeowners.</p>
+</div>
+<div class="content-section">
+<h2>When the trustee abandons the house</h2>
+<p>In most consumer Chapter 7 cases, the trustee files a "no-asset report" and the house is abandoned by the estate. Abandonment means the property returns to you free of any claim by the <a href="https://1328f.com/glossary.html#estate" title="estate">bankruptcy estate</a>. This typically happens within 60 to 90 days of filing.</p>
+<p>Under 11 U.S.C. § 554(c), any property that is not administered by the trustee before the case is closed is deemed abandoned to the debtor.</p>
+</div>
+<div class="green-box">
+<p><strong>Bottom line:</strong> If your home equity is within the exemption and you keep making payments, Chapter 7 will not affect your house. You will get a discharge of your unsecured debts (credit cards, medical bills, personal loans) while keeping your home.</p>
+</div>
+<div style="max-width:820px;margin:2rem auto;padding:0 1.5rem">
+<h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Topics</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.75rem">
+<a href="https://whatischapter7.com" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">What Is Chapter 7?</a>
+<a href="https://meanstest.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">The Means Test</a>
+<a href="https://727a8.com" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Section 727(a)(8) Time Bar</a>
+<a href="homestead-exemption.html" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Homestead Exemptions</a>
+</div>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://bankruptcyexemptions.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Exemptions Guide</a></li>
+<li><a href="https://bankruptcylien.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Lien Guide</a></li>
+<li><a href="https://keepmycarinbankruptcy.com" style="color:#58a6ff;text-decoration:none">Keep Your Car in Bankruptcy</a></li>
+<li><a href="https://lienstripping.org" style="color:#58a6ff;text-decoration:none">Lien Stripping in Chapter 13</a></li>
+</ul>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on GitHub</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy exemptions and asset protection:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/522" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 522</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - federal exemptions</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Bankruptcy Basics</a><br/><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/if-i-file-for-bankruptcy-can-i-keep-my-home-en-1938/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: Keep My Home?</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/wex/bankruptcy_exemptions" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Exemption Law Overview</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell Wex</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22homestead+exemption%22+%22bankruptcy%22+state" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Exemption Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.fjc.gov/research/idb" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FJC Bankruptcy Statistics</a><br/><span style="color:#7d8590;font-size:0.8rem"><a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a></span></li>
+</ul>
+</div>
+<!-- PAA SECTION (build_paa_pages.py) -->
+<div style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#111;border:1px solid #333;border-radius:8px">
+<p style="color:#fff;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">People Also Ask</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:8px"><a href="/paa/can-i-keep-my-house-if-i-file-bankruptcy.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Can I keep my house if I file bankruptcy?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/does-filing-bankruptcy-stop-foreclosure.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Does filing bankruptcy stop foreclosure?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/what-is-the-homestead-exemption-in-bankruptcy.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What is the homestead exemption in bankruptcy?</a></li>
+</ul>
+<p style="margin-top:12px"><a href="/paa/" style="color:#888;font-size:13px">View all questions →</a></p>
+</div>
+<!-- /PAA SECTION -->
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://bankruptcyexemptions.org?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Exemptions Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What property you can keep in bankruptcy</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptions.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcyexemptionsbystate.com?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Exemptions by State</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Your state's exemption laws explained</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptionsbystate.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcylien.org?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Liens in Bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcylien.org →</p>
+</a>
+<a class="related-card" href="https://buyahouseafterbankruptcy.com?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Buy a House After Bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Mortgage options after bankruptcy discharge</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">buyahouseafterbankruptcy.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+<p style="margin-bottom:0.5rem">Free bankruptcy education. Not legal advice.</p>
+<p style="margin-bottom:0.5rem">
+<a href="/">Home</a> · <a href="chapter-7-house.html">Chapter 7</a> · <a href="chapter-13-house.html">Chapter 13</a> · <a href="homestead-exemption.html">Exemptions</a> · <a href="mortgage-arrears.html">Mortgage Arrears</a> · <a href="foreclosure-vs-bankruptcy.html">Foreclosure</a> · <a href="home-equity.html">Home Equity</a> · <a href="lienstrip.html">Lien Strip</a> · <a href="faq.html">FAQ</a>
+</p>
+<p style="font-size:0.75rem">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=keepmyhouseinbankruptcy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.querySelector('.hamburger');
+  if (btn) btn.addEventListener('click', function() {
+    var links = document.getElementById('nav-links');
+    links.classList.toggle('open');
+    btn.setAttribute('aria-expanded', links.classList.contains('open'));
+  });
+});
+</script>
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

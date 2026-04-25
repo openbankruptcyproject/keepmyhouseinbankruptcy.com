@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>State-by-State Homestead Exemptions in Bankruptcy</title>
+<meta name="description" content="Complete guide to homestead exemptions state by state in bankruptcy. Find out how much of your home equity is protected in your state.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://keepmyhouseinbankruptcy.com/homestead-exemptions.html">
+<link rel="alternate" hreflang="en" href="https://keepmyhouseinbankruptcy.com/homestead-exemptions.html">
+<link rel="alternate" hreflang="es" href="https://keepmyhouseinbankruptcy.com/homestead-exemptions-es.html">
+<meta property="og:title" content="State-by-State Homestead Exemptions in Bankruptcy">
+<meta name="twitter:image" content="https://keepmyhouseinbankruptcy.com/og-image.svg">
+<meta property="og:description" content="Complete guide to homestead exemptions state by state in bankruptcy. Find out how much of your home equity is protected in your state.">
+<meta property="og:url" content="https://keepmyhouseinbankruptcy.com/homestead-exemptions.html">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a homestead exemption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A homestead exemption is a state or federal law that protects a set amount of equity in your home from creditors during bankruptcy. If your equity is below the exemption amount, the trustee cannot sell your home to pay creditors. It is the single most important protection for homeowners in bankruptcy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I choose between state and federal exemptions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your state. Some states require you to use the state exemption system; others let you choose between federal and state exemptions. Federal-option states include Alaska, Arkansas, Connecticut, Hawaii, Kentucky, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Texas, Vermont, Washington, Wisconsin and D.C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my equity exceeds the exemption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have options. You can pay the trustee the non-exempt portion, use wildcard exemptions if your state offers them, or file Chapter 13 instead of Chapter 7. In Chapter 13 you keep the house regardless of equity in exchange for paying unsecured creditors an equivalent amount through your plan."
+      }
+    }
+  ]
+}
+</script>
+<style>*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:760px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.compare-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+.disclaimer{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 24px;margin:24px 0;color:#f85149;font-size:0.9rem}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}
+.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}
+.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.compare-grid{grid-template-columns:1fr}}
+table{width:100%;border-collapse:collapse}
+th,td{padding:10px 14px;border-bottom:1px solid #30363d;text-align:left}
+th{background:#21262d;color:#f0f6fc;font-weight:600}
+tbody tr:hover{background:#161b22}
+</style>
+</head>
+<body>
+<nav><div class="container"><a href="/" class="brand">Keep My House in Bankruptcy</a><div class="links"><a href="/">Home</a><a href="homestead-exemption.html">Exemption</a><a href="foreclosure-bankruptcy.html">Foreclosure</a><a href="chapter-7-house.html">Chapter 7</a><a href="chapter-13-house.html">Chapter 13</a><a href="states/">By State</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://keepmyhouseinbankruptcy.com">Keep My House</a><span class="separator">&rsaquo;</span><span>Homestead Exemptions By State</span></nav>
+
+<div class="hero"><div class="container">
+<h1>Homestead Exemptions By State</h1>
+<p class="subtitle">Every state sets its own homestead exemption - the amount of equity in your home that the law protects when you file bankruptcy. Here is what you need to know.</p>
+</div></div>
+
+<div class="container"><div class="disclaimer">General educational information, not legal advice. Consult a qualified bankruptcy attorney for advice about your specific situation.</div></div>
+
+<section><div class="container">
+<h2>How Homestead Exemptions Work</h2>
+<div class="card">
+<p>A homestead exemption is the amount of equity in your primary residence that state or federal law protects from creditors in bankruptcy. Equity is the fair market value of the home minus all mortgages and liens.</p>
+<p>If your equity is within the exemption limit, the <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> trustee cannot sell your home. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, the exemption determines how much you must pay unsecured creditors through your plan - while you keep the house. It is the single most important protection for homeowners in bankruptcy.</p>
+<p>Exemption amounts vary wildly. Texas and Florida offer unlimited <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> (subject to acreage limits). Other states like Tennessee protect as little as $5,000. Some states let you pick between state and federal exemptions; others force you to use state law.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Exemption Amounts By State</h2>
+<div class="card"><div style="overflow-x:auto">
+<table style="width:100%;border-collapse:collapse"><thead><tr><th>State</th><th>Homestead Exemption</th></tr></thead><tbody><tr><td>Texas</td><td>Unlimited (acreage limit)</td></tr><tr><td>Florida</td><td>Unlimited (acreage limit)</td></tr><tr><td>Kansas</td><td>Unlimited (acreage limit)</td></tr><tr><td>Iowa</td><td>Unlimited (acreage limit)</td></tr><tr><td>Oklahoma</td><td>Unlimited (acreage limit)</td></tr><tr><td>Massachusetts</td><td>$500,000</td></tr><tr><td>Nevada</td><td>$605,000</td></tr><tr><td>Rhode Island</td><td>$500,000</td></tr><tr><td>Minnesota</td><td>$450,000</td></tr><tr><td>California</td><td>$300,000 - $600,000 (county median)</td></tr><tr><td>New York</td><td>$179,950 - $179,950 (county tier)</td></tr><tr><td>Ohio</td><td>$161,375</td></tr><tr><td>Vermont</td><td>$125,000</td></tr><tr><td>Arizona</td><td>$250,000</td></tr><tr><td>Oregon</td><td>$40,000</td></tr><tr><td>Colorado</td><td>$75,000</td></tr><tr><td>Washington</td><td>$125,000</td></tr><tr><td>Georgia</td><td>$21,500</td></tr><tr><td>Illinois</td><td>$15,000</td></tr><tr><td>Missouri</td><td>$15,000</td></tr><tr><td>Tennessee</td><td>$5,000</td></tr><tr><td>Federal (11 U.S.C. 522(d)(1))</td><td>$27,900</td></tr></tbody></table>
+</div>
+<p style="margin-top:16px;font-size:0.9rem;color:#8b949e">Amounts update periodically for inflation adjustments. Check current law for your case. See <a href="https://bankruptcyexemptionsbystate.com/">complete state-by-state exemptions</a>.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>The 1,215-Day Residency Rule</h2>
+<div class="card">
+<p>Under 11 U.S.C. section 522(p), if you acquired your primary residence within 1,215 days (about 40 months) before filing bankruptcy, your homestead exemption is capped at $189,050 (2022-2025 federal cap) even if your state allows more. This applies in states like Texas and Florida where the exemption is "unlimited." Congress added this rule to stop debtors from moving to high-exemption states just to shield wealth before filing.</p>
+<p>If you have owned your home longer than 1,215 days, the full state exemption applies.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>What is a homestead exemption?</summary><div class="answer"><p>A homestead exemption is a state or federal law that protects a set amount of equity in your home from creditors during bankruptcy. If your equity is below the exemption amount, the trustee cannot sell your home to pay creditors. It is the single most important protection for homeowners in bankruptcy.</p></div></details><details class="faq-item"><summary>Can I choose between state and federal exemptions?</summary><div class="answer"><p>It depends on your state. Some states require you to use the state exemption system; others let you choose between federal and state exemptions. Federal-option states include Alaska, Arkansas, Connecticut, Hawaii, Kentucky, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Texas, Vermont, Washington, Wisconsin and D.C.</p></div></details><details class="faq-item"><summary>What if my equity exceeds the exemption?</summary><div class="answer"><p>You have options. You can pay the trustee the non-exempt portion, use wildcard exemptions if your state offers them, or file Chapter 13 instead of Chapter 7. In Chapter 13 you keep the house regardless of equity in exchange for paying unsecured creditors an equivalent amount through your plan.</p></div></details>
+</div></section>
+
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Protect Your Home</h2>
+<p>Use our free tools to understand your options.</p>
+<a href="https://1328f.com" class="cta" style="margin-right:12px">Free Discharge Screener</a>
+<a href="foreclosure-bankruptcy.html" class="cta" style="background:#1f6feb">Foreclosure Guide</a>
+</div>
+<div class="network"><h3>Related Pages</h3>
+<div class="network-links">
+<a href="homestead-exemption.html">Homestead Exemption</a>
+<a href="chapter-7-house.html">Chapter 7</a>
+<a href="chapter-13-house.html">Chapter 13</a>
+<a href="foreclosure-bankruptcy.html">Foreclosure</a>
+<a href="https://bankruptcyexemptionsbystate.com/">Exemptions by State</a>
+</div>
+</div>
+</div>
+
+<footer><div class="container">
+<p>&copy; 2026 <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a>. Educational information only - not legal advice.</p>
+<p><a href="https://keepmyhouseinbankruptcy.com/homestead-exemptions-es.html">Espanol</a> &middot; <a href="https://1328f.com">Free Discharge Screener</a> &middot; <a href="https://1328f.org">Research Platform</a></p>
+</div></footer>
+</body>
+</html>
