@@ -1,7 +1,7 @@
 # Keep Your House in Bankruptcy - Homestead Exemption Guide [2026] - Keep My House
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Can you keep your house in bankruptcy? Homestead exemptions, Chapter 13 mortgage catch-up, and lien stripping explained. Free 2026 state-b...
+> Can you keep your house in bankruptcy? Homestead exemptions, Chapter 13 mortgage catch-up, and lien stripping explained.
 
 ## About
 keepmyhouseinbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -73,6 +73,8 @@ keepmyhouseinbankruptcy.com is part of the Open Bankruptcy Project (openbankrupt
 - Keep Your House in Bankruptcy in Wisconsin | keepmyhouseinbankruptcy.com - Keep My House: https://keepmyhouseinbankruptcy.com/states/wisconsin.html
 - Keep Your House in Bankruptcy in Wyoming | keepmyhouseinbankruptcy.com - Keep My House: https://keepmyhouseinbankruptcy.com/states/wyoming.html
 - Privacy Policy: https://keepmyhouseinbankruptcy.com/privacy.html
+- About keepmyhouseinbankruptcy.com: https://keepmyhouseinbankruptcy.com/about.html
+- State-by-State Homestead Exemptions in Bankruptcy: https://keepmyhouseinbankruptcy.com/homestead-exemptions.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

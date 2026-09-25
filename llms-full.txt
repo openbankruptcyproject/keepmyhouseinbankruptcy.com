@@ -1,6 +1,6 @@
 # keepmyhouseinbankruptcy.com -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on keepmyhouseinbankruptcy.com.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -29,6 +29,8 @@ Your House in Chapter 13 Bankruptcy
 Chapter 13 is the homeowner's chapter. It lets you catch up on missed mortgage payments, stop foreclosure, and even strip off underwater second mortgages - all while keeping your home.
 
 Home›Your House in Chapter 13 Bankruptcy - Cure Arrears and Keep Your Home | keepmyhouseinbankruptcy.com
+
+Chapter 13 allows you to propose a repayment plan lasting 3 to 5 years. During this time, you make regular mortgage payments going forward and cure any missed payments (arrears) through the plan. The automatic stay prevents foreclosure while your plan is active.
 
 How Chapter 13 protects your home
 
@@ -91,7 +93,7 @@ Keep Your Car in Bankruptcy
 
 Lien Stripping in Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -156,14 +158,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -190,6 +209,8 @@ Your House in Chapter 7 Bankruptcy
 Chapter 7 is the fastest path to a discharge, but keeping your house depends on two things: your home equity and your state's homestead exemption.
 
 Home›Your House in Chapter 7 Bankruptcy - Can You Keep It? | keepmyhouseinbankruptcy.com
+
+Only if your home equity exceeds the available homestead exemption. If the trustee cannot generate enough from a sale to pay creditors after covering exemptions, sale costs, and commissions, selling your home is not worthwhile and they will abandon it as an asset of the estate.
 
 How Chapter 7 treats your house
 
@@ -260,7 +281,7 @@ Keep Your Car in Bankruptcy
 
 Lien Stripping in Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -325,14 +346,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -360,6 +398,8 @@ Quick answers to the most common questions about bankruptcy and your home. Click
 
 Home›FAQ - Keeping Your House in Bankruptcy | keepmyhouseinbankruptcy.com
 
+Most people do not lose their house in bankruptcy. In Chapter 7, your home is protected if your equity falls within the homestead exemption and you stay current on payments. In Chapter 13, you can keep your house while catching up on missed payments over 3 to 5 years. The vast majority of bankruptcy filers keep their homes.
+
 General Questions
 
 Will I lose my house if I file bankruptcy?
@@ -382,7 +422,7 @@ A homestead exemption protects a certain amount of equity in your primary reside
 
 How much equity can I protect in bankruptcy?
 
-The amount depends on your state's homestead exemption. The federal exemption is $27,900 per person (2024 amount). State exemptions range from $0 (New Jersey) to unlimited (Texas, Florida, Kansas, Iowa). Married couples filing jointly can often double the exemption. See the exemption table →
+The amount depends on your state's homestead exemption. The federal exemption is $31,575 per person (2025 amount). State exemptions range from $0 (New Jersey) to unlimited (Texas, Florida, Kansas, Iowa). Married couples filing jointly can often double the exemption. See the exemption table →
 
 What if I moved to a new state recently?
 
@@ -439,7 +479,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -494,14 +534,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -533,6 +590,8 @@ To cure arrears in Chapter 13
 
 $313
 Chapter 13 filing fee
+
+Yes. Filing a bankruptcy petition triggers the automatic stay under 11 U.S.C. Section 362(a), which immediately halts all foreclosure proceedings, including a scheduled foreclosure sale. The petition must be filed before the sale is completed.
 
 The Automatic Stay Stops Foreclosure Immediately
 
@@ -677,7 +736,7 @@ What Not to Do Before Filing - Avoid costly pre-filing mistakes
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -687,7 +746,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -742,18 +801,33 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Foreclosure ·
-Exemptions ·
-Lien Stripping ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -778,6 +852,8 @@ Foreclosure vs Bankruptcy - Timing and Options
 Bankruptcy can stop a foreclosure in its tracks. But timing is everything - you need to file before the sale, and you need to choose the right chapter.
 
 Home›Foreclosure vs Bankruptcy - Timing, Automatic Stay, and Options | keepmyhouseinbankruptcy.com
+
+Yes, if you file before the sale takes place. The automatic stay under 11 U.S.C. Section 362 takes effect the moment the petition is filed and immediately halts all collection activity, including foreclosure. However, if the sale has already occurred, bankruptcy generally cannot undo it.
 
 How the automatic stay stops foreclosure
 
@@ -882,7 +958,7 @@ Keep Your Car in Bankruptcy
 
 Lien Stripping in Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -937,14 +1013,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -959,7 +1052,7 @@ keepmyhouseinbankruptcy.com
 
 Home
 FAQ
-Espanol
+Español
 
 Keep Your House in Bankruptcy FAQ - Home Protection Questions
 
@@ -1027,6 +1120,8 @@ What if I want to surrender my house in bankruptcy?
 
 You can surrender your home in either chapter. In Chapter 7, the mortgage deficiency is discharged. In Chapter 13, you include the surrender in your plan. After surrender, you are no longer liable for the mortgage, but you must vacate according to state law timelines.
 
+In most cases, yes. Your home is protected if the equity is within your state's homestead exemption. In Chapter 13, you can keep your house even if you are behind on payments by curing the arrears over 3-5 years. In Chapter 7, you keep the house if it is fully exempt and you stay current on the mortgage.
+
 More Resources on This Site
 
 Chapter 7 House
@@ -1049,20 +1144,33 @@ Automatic Stay
 
 Chapter 7 vs Chapter 13
 
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1087,6 +1195,8 @@ How Home Equity Affects Your Bankruptcy
 The amount of equity you have in your home is the single most important factor in determining whether you keep it in bankruptcy. Here is how equity works and what the trustee looks at.
 
 Home›How Home Equity Affects Your Bankruptcy Case | keepmyhouseinbankruptcy.com
+
+Take the fair market value of your home, subtract all mortgage balances and liens, and subtract estimated costs of sale (typically 8-10%). The result is your net equity. Compare this to your state's homestead exemption to determine if the equity is protected.
 
 Calculating your home equity
 
@@ -1169,7 +1279,7 @@ Keep Your Car in Bankruptcy
 
 Lien Stripping in Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1224,14 +1334,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1259,6 +1386,8 @@ The homestead exemption is the legal shield that protects your home equity from 
 
 Home›Homestead Exemptions in Bankruptcy - How They Protect Your Home | keepmyhouseinbankruptcy.com
 
+The federal homestead exemption under 11 U.S.C. Section 522(d)(1) is $31,575 per debtor as of April 1, 2025. Married couples filing jointly can double this to $63,150. The amount is adjusted every three years for inflation.
+
 What is a homestead exemption?
 
 A homestead exemption is a legal provision that protects a certain dollar amount of equity in your primary residence from being seized by creditors. In bankruptcy, this means the trustee cannot sell your home to pay creditors if your equity falls within the exempted amount.
@@ -1267,7 +1396,7 @@ Under 11 U.S.C. § 522, debtors can choose between the federal exemption scheme 
 
 11 U.S.C. § 522(d)(1) - Federal homestead exemption: A debtor may exempt "the debtor's aggregate interest, not to exceed $31,575 in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence."
 
-This amount is for 2024 and adjusts every 3 years for inflation. Married couples filing jointly can each claim the full amount, doubling it to $55,800.
+This amount is for 2024 and adjusts every 3 years for inflation. Married couples filing jointly can each claim the full amount, doubling it to $63,150.
 
 Federal vs. state exemptions
 
@@ -1346,7 +1475,7 @@ Keep Your Car in Bankruptcy
 
 Lien Stripping in Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1411,14 +1540,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1442,7 +1588,7 @@ Home Equity
 Lien Strip
 FAQ
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Keep Your House in Bankruptcy
 
@@ -1456,6 +1602,8 @@ to cure mortgage arrears in Ch. 13
 
 50 states
 each with different homestead exemptions
+
+In most cases, yes. If your home equity falls within your state's homestead exemption and you are current on mortgage payments, you can keep your house in Chapter 7. The trustee cannot sell exempt property. If your equity exceeds the exemption, the trustee may sell the home to pay creditors.
 
 The short answer
 
@@ -1576,7 +1724,7 @@ Relief from Stay - When creditors ask the court to lift the automatic stay
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
@@ -1590,9 +1738,7 @@ Subscribe
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1757,7 +1903,7 @@ The homestead exemption protects a specific dollar amount of equity in your prim
 
 How much equity can I protect in my home?
 
-The amount depends on your state's homestead exemption. Texas and Florida offer unlimited protection. Other states range from $5,000 to over $500,000. The federal exemption is $27,900 per debtor. Married couples filing jointly can sometimes double the exemption. Check your state's specific limits before filing.
+The amount depends on your state's homestead exemption. Texas and Florida offer unlimited protection. Other states range from $5,000 to over $500,000. The federal exemption is $31,575 per debtor. Married couples filing jointly can sometimes double the exemption. Check your state's specific limits before filing.
 
 Get Bankruptcy Updates
 
@@ -1769,26 +1915,62 @@ You're subscribed. Thank you!
 
 Privacy policy
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Chapter 7 ·
-Chapter 13 ·
-Exemptions ·
-Mortgage Arrears ·
-Foreclosure ·
-Home Equity ·
-Lien Strip ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+Privacy |
+Terms
 
-Cited by the Federal Rules Committee (26-BK-3)
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Index
+Keeping House
 
 ---
 
@@ -1816,6 +1998,8 @@ Home›Keep My House›Keeping Your House
 Quick Answer
 
 The vast majority of bankruptcy filers keep their house. In Chapter 7, your home is safe if the equity is within your state's homestead exemption and you stay current on the mortgage. In Chapter 13, you can catch up on missed payments over 3-5 years and may be able to strip off an underwater second mortgage.
+
+In Chapter 7, you keep your house if the equity is protected by your state's homestead exemption and you stay current on mortgage payments. In Chapter 13, you keep your house while catching up on missed mortgage payments over 3 to 5 years through your repayment plan. The vast majority of bankruptcy filers keep their homes.
 
 How Chapter 7 Protects Your Home
 
@@ -1851,7 +2035,7 @@ High exemption states: Many states protect $100,000 or more - Massachusetts, Min
 
 Low exemption states: Some states protect less than $25,000 per person - including Alabama, Kentucky, and Maryland.
 
-Federal exemption: $27,900 per person (2024), available in states that allow the federal option. Married couples filing jointly can double this amount.
+Federal exemption: $31,575 per person (2025), available in states that allow the federal option. Married couples filing jointly can double this amount.
 
 See bankruptcyexemptionsbystate.com for a state-by-state breakdown.
 
@@ -1952,14 +2136,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Keeping House · Chapter 7 · Chapter 13 · Exemptions · Lien Strip · Foreclosure · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1986,6 +2187,8 @@ Second Mortgage Lien Stripping in Chapter 13
 If your first mortgage balance exceeds your home's value, Chapter 13 can eliminate your second mortgage entirely. The lien is "stripped off" and the debt is treated as unsecured.
 
 Home›Second Mortgage Lien Stripping in Chapter 13 Bankruptcy | keepmyhouseinbankruptcy.com
+
+Lien stripping allows a Chapter 13 debtor to remove a second mortgage or home equity line of credit (HELOC) when the first mortgage balance exceeds the home's current market value. Under 11 U.S.C. Section 506(a), the junior lien is treated as wholly unsecured and can be eliminated through the Chapter 13 plan.
 
 How lien stripping works
 
@@ -2056,7 +2259,7 @@ Bankruptcy Lien Guide
 
 Keep Your Car in Bankruptcy
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -2111,14 +2314,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2145,6 +2365,8 @@ Catching Up on Mortgage Arrears Through Chapter 13
 Behind on your mortgage? Chapter 13 lets you spread missed payments over 3 to 5 years while keeping your home and stopping foreclosure.
 
 Home›Catching Up on Mortgage Arrears Through Chapter 13 | keepmyhouseinbankruptcy.com
+
+You have the entire length of your Chapter 13 plan to cure mortgage arrears - typically 3 to 5 years. The arrears are spread across monthly plan payments, making them manageable alongside your regular mortgage payment.
 
 How the cure provision works
 
@@ -2219,7 +2441,7 @@ Keep Your Car in Bankruptcy
 
 Lien Stripping in Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -2274,14 +2496,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Chapter 7 · Chapter 13 · Exemptions · Mortgage Arrears · Foreclosure · Home Equity · Lien Strip · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2290,7 +2529,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 ## Protect Your Home in Bankruptcy - Mortgage Checklist [2026]
 Source: https://keepmyhouseinbankruptcy.com/mortgage-checklist.html
 
-Esta pagina esta disponible en Espanol
+Esta página está disponible en Español
 
 Skip to main content
 
@@ -2306,7 +2545,7 @@ Checklist
 Home Equity
 FAQ
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Protect Your Home in Bankruptcy - Checklist
 
@@ -2315,6 +2554,8 @@ Step-by-step checklist for homeowners filing bankruptcy. Verify your exemption, 
 Home›Keep My House›Mortgage Checklist
 
 Print This Checklist
+
+Yes, in most cases. In Chapter 7, you keep your home if your equity is fully covered by the homestead exemption. In Chapter 13, you keep your home and catch up on missed mortgage payments through a 3-5 year repayment plan. The key factors are your equity amount, your state's homestead exemption, whether your mortgage is current, and which chapter you file.
 
 1. Homestead Exemption Verification
 
@@ -2326,7 +2567,7 @@ Determine if you can use federal exemptions insteadSome states let you choose be
 
 Confirm the property is your primary residenceHomestead exemptions only apply to your primary residence, not investment properties or vacation homes.
 
-Check the 1,215-day residency rule (11 U.S.C. section 522(b)(3)(A))If you moved states within the last 1,215 days (about 3.3 years), you may be limited to your previous state's exemption or the federal cap of $189,050.
+Check the 1,215-day residency rule (11 U.S.C. section 522(b)(3)(A))If you moved states within the last 1,215 days (about 3.3 years), you may be limited to your previous state's exemption or the federal cap of $214,000.
 
 Verify whether your state's exemption applies per person or per householdIf married filing jointly and your state allows doubling, both spouses can claim the exemption on the same property.
 
@@ -2480,24 +2721,33 @@ Complete Filing Document Checklist
 
 Free Bankruptcy Discharge Screener
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-howtofilebankruptcy.org
-automaticstay.org
-keepmyhouseinbankruptcy.com
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2591,7 +2841,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2685,7 +2937,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2777,7 +3031,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2869,7 +3125,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2961,7 +3219,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3053,7 +3313,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3147,7 +3409,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3239,7 +3503,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3333,7 +3599,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3425,7 +3693,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3517,7 +3787,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3611,7 +3883,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3703,7 +3977,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3795,7 +4071,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3918,7 +4196,31 @@ Wyoming
 
 Free bankruptcy education. Not legal advice.
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
 
 ---
 
@@ -4010,7 +4312,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4102,7 +4406,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4194,7 +4500,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4288,7 +4596,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4380,7 +4690,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4472,7 +4784,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4564,7 +4878,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4658,7 +4974,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4752,7 +5070,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4846,7 +5166,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4938,7 +5260,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5030,7 +5354,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5122,7 +5448,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5214,7 +5542,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5306,7 +5636,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5400,7 +5732,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5494,7 +5828,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5588,7 +5924,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5680,7 +6018,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5772,7 +6112,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5864,7 +6206,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5956,7 +6300,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6048,7 +6394,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6142,7 +6490,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6236,7 +6586,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6330,7 +6682,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6422,7 +6776,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6514,7 +6870,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6606,7 +6964,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6698,7 +7058,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6790,7 +7152,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6884,7 +7248,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6978,7 +7344,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7072,7 +7440,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7164,7 +7534,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7258,7 +7630,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7350,7 +7724,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7410,7 +7786,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -7420,9 +7796,181 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About keepmyhouseinbankruptcy.com
+Source: https://keepmyhouseinbankruptcy.com/about.html
+
+keepmyhouseinbankruptcy.com
+
+Home
+About
+Privacy
+
+About keepmyhouseinbankruptcy.com
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+keepmyhouseinbankruptcy.com is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## State-by-State Homestead Exemptions in Bankruptcy
+Source: https://keepmyhouseinbankruptcy.com/homestead-exemptions.html
+
+Keep My House in Bankruptcy
+HomeExemptionForeclosureChapter 7Chapter 13By StateFAQOBP
+
+Home›Keep My House›Homestead Exemptions By State
+
+Homestead Exemptions By State
+
+Every state sets its own homestead exemption - the amount of equity in your home that the law protects when you file bankruptcy. Here is what you need to know.
+
+General educational information, not legal advice. Consult a qualified bankruptcy attorney for advice about your specific situation.
+
+A homestead exemption is a state or federal law that protects a set amount of equity in your home from creditors during bankruptcy. If your equity is below the exemption amount, the trustee cannot sell your home to pay creditors. It is the single most important protection for homeowners in bankruptcy.
+
+How Homestead Exemptions Work
+
+A homestead exemption is the amount of equity in your primary residence that state or federal law protects from creditors in bankruptcy. Equity is the fair market value of the home minus all mortgages and liens.
+
+If your equity is within the exemption limit, the Chapter 7 trustee cannot sell your home. In Chapter 13, the exemption determines how much you must pay unsecured creditors through your plan - while you keep the house. It is the single most important protection for homeowners in bankruptcy.
+
+Exemption amounts vary wildly. Texas and Florida offer unlimited exemptions (subject to acreage limits). Other states like Tennessee protect as little as $5,000. Some states let you pick between state and federal exemptions; others force you to use state law.
+
+Exemption Amounts By State
+
+StateHomestead Exemption
+
+TexasUnlimited (acreage limit)
+
+FloridaUnlimited (acreage limit)
+
+KansasUnlimited (acreage limit)
+
+IowaUnlimited (acreage limit)
+
+OklahomaUnlimited (acreage limit)
+
+Massachusetts$500,000
+
+Nevada$605,000
+
+Rhode Island$500,000
+
+Minnesota$450,000
+
+California$300,000 - $600,000 (county median)
+
+New York$179,950 - $179,950 (county tier)
+
+Ohio$161,375
+
+Vermont$125,000
+
+Arizona$250,000
+
+Oregon$40,000
+
+Colorado$75,000
+
+Washington$125,000
+
+Georgia$21,500
+
+Illinois$15,000
+
+Missouri$15,000
+
+Tennessee$5,000
+
+Federal (11 U.S.C. 522(d)(1))$31,575
+
+Amounts update periodically for inflation adjustments. Check current law for your case. See complete state-by-state exemptions.
+
+The 1,215-Day Residency Rule
+
+Under 11 U.S.C. section 522(p), if you acquired your primary residence within 1,215 days (about 40 months) before filing bankruptcy, your homestead exemption is capped at $214,000 (2025-2028 federal cap) even if your state allows more. This applies in states like Texas and Florida where the exemption is "unlimited." Congress added this rule to stop debtors from moving to high-exemption states just to shield wealth before filing.
+
+If you have owned your home longer than 1,215 days, the full state exemption applies.
+
+Frequently Asked Questions
+
+What is a homestead exemption?
+
+A homestead exemption is a state or federal law that protects a set amount of equity in your home from creditors during bankruptcy. If your equity is below the exemption amount, the trustee cannot sell your home to pay creditors. It is the single most important protection for homeowners in bankruptcy.
+
+Can I choose between state and federal exemptions?
+
+It depends on your state. Some states require you to use the state exemption system; others let you choose between federal and state exemptions. Federal-option states include Alaska, Arkansas, Connecticut, Hawaii, Kentucky, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Texas, Vermont, Washington, Wisconsin and D.C.
+
+What if my equity exceeds the exemption?
+
+You have options. You can pay the trustee the non-exempt portion, use wildcard exemptions if your state offers them, or file Chapter 13 instead of Chapter 7. In Chapter 13 you keep the house regardless of equity in exchange for paying unsecured creditors an equivalent amount through your plan.
+
+Protect Your Home
+
+Use our free tools to understand your options.
+
+Free Discharge Screener
+Foreclosure Guide
+
+Related Pages
+
+Homestead Exemption
+Chapter 7
+Chapter 13
+Foreclosure
+Exemptions by State
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7479,19 +8027,21 @@ Chapter 7 House
 
 Chapter 13 House
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
 1328f.com
 1328f.org
 openbankruptcyproject.org
-♥ Sponsor
+♥ Donate
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ### Does filing bankruptcy stop foreclosure? - Keep My House in Bankruptcy
 Source: https://keepmyhouseinbankruptcy.com/paa/does-filing-bankruptcy-stop-foreclosure.html
@@ -7545,19 +8095,21 @@ Chapter 13 House
 
 Index
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
 1328f.com
 1328f.org
 openbankruptcyproject.org
-♥ Sponsor
+♥ Donate
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ### Common Questions - Keep My House in Bankruptcy
 Source: https://keepmyhouseinbankruptcy.com/paa/index.html
@@ -7595,12 +8147,36 @@ What is the homestead exemption?
 
 The homestead exemption protects equity in your primary residence from creditors in bankruptcy. The amount varies significantly by state, from a few thousand dollars to unlimited protection in some states like Texas and Florida. The federal homestead exemption is approximately $31,575 per person as of 2026.
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 1328f.com
 openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
 
 ### What is the homestead exemption in bankruptcy? - Keep My House in Bankruptcy
 Source: https://keepmyhouseinbankruptcy.com/paa/what-is-the-homestead-exemption-in-bankruptcy.html
@@ -7656,16 +8232,18 @@ Chapter 7 House
 
 Home Equity
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
 1328f.com
 1328f.org
 openbankruptcyproject.org
-♥ Sponsor
+♥ Donate
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
